@@ -26,7 +26,7 @@
 	                .Cells(1, 1) = "Folder"
 	                .Cells(1, 2) = "Received"
 	                .Cells(1, 3) = "Unread"
-	                .Cells(1, 4) = "Sender Nmae"
+	                .Cells(1, 4) = "Sender Name"
 	                .Cells(1, 5) = "Subject"
 	            End With
 	        Set olkSto = GetNamespace("MAPI")
