@@ -73,4 +73,4 @@
 	    Set olkSub = Nothing
 	End Sub
 
-#This Outlook Macro Allow Export Messages to Excel By Inserting File Path and name and by determine Which inbox and its sub to export
+#This Outlook Macro - Export Messages to Excel By Inserting File Path and name and by determine Which inbox and its sub to export
