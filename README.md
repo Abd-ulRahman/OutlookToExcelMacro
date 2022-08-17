@@ -47,7 +47,7 @@
 	    intRow = excWks.UsedRange.Rows.Count
 	    intRow = intRow + 1
 
-	    'Trick To Avoid Break in Error
+	    'Trick To Avoid Break runtime error 430 - "Class Does Not Support Automation or Expected Interface" Error Message 
 	    On Error Resume Next
 
 	    'Write messages to spreadsheet
