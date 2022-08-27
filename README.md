@@ -79,4 +79,5 @@
 https://docs.microsoft.com/en-us/office/vba/api/outlook.mailitem#properties
 
 
-<video src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6968899634085707776?compact=1">
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6968899634085707776?compact=1)
+
