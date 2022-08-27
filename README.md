@@ -1,3 +1,8 @@
+
+
+https://user-images.githubusercontent.com/1366228/187020476-271d76fe-b692-4c23-b796-2f9d9948cb06.mp4
+
+
 # OutlookToExcelMacro
 #code
 
@@ -78,5 +83,5 @@
 # This Outlook Macro - Export Messages to Excel By Inserting File Path and name and by determine Which inbox and its sub to export.
 https://docs.microsoft.com/en-us/office/vba/api/outlook.mailitem#properties
 
-https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6968899634085707776?compact=1
+https://www.linkedin.com/feed/update/urn:li:activity:6968899808505856000/
 
