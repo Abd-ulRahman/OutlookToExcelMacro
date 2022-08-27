@@ -78,5 +78,5 @@
 # This Outlook Macro - Export Messages to Excel By Inserting File Path and name and by determine Which inbox and its sub to export.
 https://docs.microsoft.com/en-us/office/vba/api/outlook.mailitem#properties
 
-![Abd-ulRahman](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6968899634085707776?compact=1)
+https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6968899634085707776?compact=1
 
