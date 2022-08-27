@@ -73,8 +73,10 @@
 	    Set olkSub = Nothing
 	End Sub
 
-<video src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6968899634085707776?compact=1" width="50%">
 
 # runtime error 430 in this macro happens when found an unexpected empty Row like recalled email.
 # This Outlook Macro - Export Messages to Excel By Inserting File Path and name and by determine Which inbox and its sub to export.
 https://docs.microsoft.com/en-us/office/vba/api/outlook.mailitem#properties
+
+
+<video src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6968899634085707776?compact=1">
