@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/1366228/187020476-271d76fe-b692-4c23-b
 	End Sub
 
 
-# runtime error 430 in this macro happens when found an unexpected empty Row like recalled email.
+# runtime error 430 in this macro happens when found an unexpected empty row like recalled email.
 # This Outlook Macro - Export Messages to Excel By Inserting File Path and name and by determine Which inbox and its sub to export.
 https://docs.microsoft.com/en-us/office/vba/api/outlook.mailitem#properties
 
